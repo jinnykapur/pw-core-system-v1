@@ -1,4 +1,4 @@
-# PathWise – AI-Based Academic and Career Recommendation System
+# PW V1
 
 Monorepo with:
 
