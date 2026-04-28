@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Data Science & Analytics",
+    "description": "Analyze data to extract insights and build predictive models for business and research.",
+    "requiredSkills": ["Python", "Statistics", "SQL", "Data Visualization", "Pandas", "Machine Learning Basics"],
+    "interests": ["Problem Solving", "Research", "Numbers", "Business"],
+    "academicStrengths": ["Mathematics", "Statistics", "Computer Science"],
+    "recommendedCourses": [
+      { "title": "Python for Data Science", "provider": "Coursera" },
+      { "title": "SQL for Data Analysis", "provider": "DataCamp" }
+    ],
+    "recommendedCertifications": [
+      { "title": "Google Data Analytics Professional Certificate", "provider": "Google" }
+    ]
+  },
+  {
+    "name": "Full-Stack Web Development",
+    "description": "Build modern web applications end-to-end: UI, APIs, databases, and deployment.",
+    "requiredSkills": ["JavaScript", "TypeScript", "React", "Node.js", "REST APIs", "MongoDB"],
+    "interests": ["Building Products", "Design", "Problem Solving"],
+    "academicStrengths": ["Computer Science", "Mathematics"],
+    "recommendedCourses": [
+      { "title": "Full-Stack Open", "provider": "University of Helsinki" },
+      { "title": "React + TypeScript", "provider": "Udemy" }
+    ],
+    "recommendedCertifications": [
+      { "title": "Meta Front-End Developer", "provider": "Meta" }
+    ]
+  },
+  {
+    "name": "Cybersecurity",
+    "description": "Protect systems and networks by identifying vulnerabilities, monitoring threats, and improving defenses.",
+    "requiredSkills": ["Networking Basics", "Linux", "Security Fundamentals", "Scripting", "Incident Response"],
+    "interests": ["Security", "Investigation", "Systems"],
+    "academicStrengths": ["Computer Science", "Mathematics"],
+    "recommendedCourses": [
+      { "title": "Introduction to Cyber Security", "provider": "Coursera" },
+      { "title": "Linux Fundamentals", "provider": "edX" }
+    ],
+    "recommendedCertifications": [
+      { "title": "CompTIA Security+", "provider": "CompTIA" }
+    ]
+  },
+  {
+    "name": "UI/UX Design",
+    "description": "Design user-centered interfaces and experiences through research, prototyping, and usability testing.",
+    "requiredSkills": ["User Research", "Wireframing", "Prototyping", "Design Systems", "Figma"],
+    "interests": ["Design", "Creativity", "User Empathy"],
+    "academicStrengths": ["English", "Psychology", "Arts"],
+    "recommendedCourses": [
+      { "title": "Google UX Design Professional Certificate", "provider": "Google" }
+    ],
+    "recommendedCertifications": [
+      { "title": "NN/g UX Certification", "provider": "Nielsen Norman Group" }
+    ]
+  },
+  {
+    "name": "Cloud & DevOps",
+    "description": "Automate infrastructure and delivery pipelines to build reliable, scalable systems.",
+    "requiredSkills": ["Linux", "Docker", "CI/CD", "Cloud Basics", "Networking Basics", "Monitoring"],
+    "interests": ["Systems", "Automation", "Reliability"],
+    "academicStrengths": ["Computer Science", "Mathematics"],
+    "recommendedCourses": [
+      { "title": "Docker & Kubernetes", "provider": "Udemy" },
+      { "title": "AWS Cloud Practitioner Essentials", "provider": "AWS" }
+    ],
+    "recommendedCertifications": [
+      { "title": "AWS Certified Cloud Practitioner", "provider": "AWS" }
+    ]
+  }
+]
+
